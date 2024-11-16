@@ -1,0 +1,481 @@
+Provinsi,TipeFaskes,KodeFaskes,NamaFaskes,AlamatFaskes
+Nanggroe Aceh Darussalam,Rumah Sakit,0001R001,RSU Cut Nyak Dhien                                            ,Jl. Tm Bahrum No. 1 Langsa
+Nanggroe Aceh Darussalam,Rumah Sakit,0002R001,RSUD Gayo Lues                                            ,Jl. Pangur-Sangir
+Nanggroe Aceh Darussalam,Rumah Sakit,0110R001,RSUD Dr.H.Yuliddin Away                                            ,Jln. T. Ben Mahmud No. 86A
+Nanggroe Aceh Darussalam,Rumah Sakit,0004R001,RSU Nurul Hasanah                                            ,A.Yani No. 23 Pulo Kemiri 
+Nanggroe Aceh Darussalam,Rumah Sakit,0005R003,RSUD dr. Zubir Mahmud                                            ,Jalan Banda Aceh - Medan Km.37
+Nanggroe Aceh Darussalam,Rumah Sakit,0006R001,RSU Datu Beru Takengon                                            ,Jl. Qurrata Aini. 153 
+Nanggroe Aceh Darussalam,Rumah Sakit,0007R003,Montella                                            ,Jl. Beringin Jaya
+Nanggroe Aceh Darussalam,Rumah Sakit,0008R003,RS Ibnu Sina                                            ,Jl. Banda Aceh - Medan Km 25.5
+Nanggroe Aceh Darussalam,Rumah Sakit,0009R001,RSU Tgk. Abdullah Syafi'I                                            ,"Banda Aceh-Medan, Beureunun"
+Nanggroe Aceh Darussalam,Rumah Sakit,0010R002,RS Pertamina Rantau                                            ,Jl Cepu No. 1
+Nanggroe Aceh Darussalam,Rumah Sakit,0012R001,RSU. Dr. FAUZIAH BIREUEN                                            ,Jl. T. Hamzah Bendahara
+Nanggroe Aceh Darussalam,Rumah Sakit,0013R001,RS Tni-Ad Lhokseumawe                                            ,Jl. Samudera No. 53 A
+Nanggroe Aceh Darussalam,Rumah Sakit,0117R001,RSUD Aceh Singkil                                            ,Jln. Rimo / Singkil Km. 8
+Nanggroe Aceh Darussalam,Rumah Sakit,0116R001,RSUD Simeulue                                            ,"Jln. Rsu Simeulue Sinabang, Si"
+Nanggroe Aceh Darussalam,Rumah Sakit,0017R010,RS Ibu Dan Anak Aceh                                            ,Jalan Prof. A. Majid Ibrahim I
+Nanggroe Aceh Darussalam,Rumah Sakit,0018R001,RSAL J. Lili Pory                                            ,Jl T. Chik Ditiro Gampong Kuta
+Nanggroe Aceh Darussalam,Rumah Sakit,0019R000,RSUD Teuku Umar                                            ,Ali Gunong Lr. Pmi No 1
+Nanggroe Aceh Darussalam,Rumah Sakit,0020R001,RSUD Sultan Iskandar Muda                                            ,Jln. Nasional Meulaboh-Tapaktu
+Nanggroe Aceh Darussalam,Rumah Sakit,0120R001,RSUD Teungku Peukan                                            ,Jln. Nasional Padang Meurante-
+Nanggroe Aceh Darussalam,Rumah Sakit,0424R001,RSUD Munyang Kute                                    ,"Jalan Teritit - Pondok Baru, S"
+Nanggroe Aceh Darussalam,Rumah Sakit,0457R001,RSUD Pidie Jaya                                            ,Jl. B. Aceh-Medan Km. 158 Meur
+Nanggroe Aceh Darussalam,Rumah Sakit,0458R000,RSUD Subulussalam                                            ,Jln. Hamzah Fansyuri
+Sumatera Utara,Rumah Sakit,0022R003,RS Permata Madina Panyabungan                                            ,Jl. Merdeka No 155 Kel. Kayu J
+Sumatera Utara,Rumah Sakit,0212R001,RSUD Tapanuli Selatan                                            ,Jl. Rumah Sakit No 1
+Sumatera Utara,Rumah Sakit,0024R001,RSUD Pandan                                            ,Jl Dr. Fl. Tobing No 5 Pandan
+Sumatera Utara,Rumah Sakit,0211R001,RSUD Tarutung                                            ,Jl. Agus Salim No 1 Tarutung
+Sumatera Utara,Rumah Sakit,0218R001,RSUd.PORSEA                                            ,Jalan Raja Sipakko Napitupulu 
+Sumatera Utara,Rumah Sakit,0027R007,RSU Elpi Al-Azis                                            ,Jl. WR Supratman
+Sumatera Utara,Rumah Sakit,0028R007,RS Setio Husodo                                            ,Jl. Sisingamangaraja No 67
+Sumatera Utara,Rumah Sakit,0029R004,RSUD Perdagangan                                            ,"Jl. Rajamin Purba, Sh"
+Sumatera Utara,Rumah Sakit,0209R001,RSUD Sidikalang                                            ,Rumah Sakit Sidikalang
+Sumatera Utara,Rumah Sakit,0031R008,RS Efarina Etaham                                            ,Jln Jamin Ginting No. 1
+Sumatera Utara,Rumah Sakit,0032R001,RSU Sembiring                                            ,Jl Besar Deli Tua No77
+Sumatera Utara,Rumah Sakit,0033R005,RS Tanjung Selamat                                            ,Besar Batang Serangan
+Sumatera Utara,Rumah Sakit,0034R004,RS Metta Medika                                            ,Jl. Sutoyo Siswomiharjo No.34
+Sumatera Utara,Rumah Sakit,0035R001,RSU Hadi Husada                                            ,Jl. Jendral Sudirman No. 26
+Sumatera Utara,Rumah Sakit,0036R009,Rumah Sakit Harapan                                            ,Jalan Farel Pasaribu No. 21
+Sumatera Utara,Rumah Sakit,0037R001,RS Bhayangkara Tebing Tinggi                                            ,Jl. Pahlawan No.17 A 
+Sumatera Utara,Rumah Sakit,0038R002,Bina Kasih                                            ,Jl Tb Simatupang No.148
+Sumatera Utara,Rumah Sakit,0039R003,RSU Latersia Binjai                                            ,Jl. Soekarno-Hatta No.451
+Sumatera Utara,Rumah Sakit,0218R005,RSUD.Sultan Sulaiman                                            ,Jl Negara Km 85 No 315
+Sumatera Utara,Rumah Sakit,0218R002,RSUD dr. Hadrianus Sinaga                                            ,Jl.Dr.Hadrianus Sinaga
+Sumatera Utara,Rumah Sakit,0222R001,RSUD Salak                                            ,Jalan Raja David
+Sumatera Utara,Rumah Sakit,0366R000,RS. Lukas Hilisimaetano                                            ,Jl. Rumah Sakit No.1
+Sumatera Utara,Rumah Sakit,0211R003,RSUD Doloksanggul                                            ,Jl. Dr. Ferdinand Lumban Tobin
+Sumatera Utara,Rumah Sakit,0220R001,RSUD Padangsidimpuan                                            ,Jl. Dr. Fl. Tobing No 10
+Sumatera Utara,Rumah Sakit,0455R000,RSUD Batu Bara                                            ,Datuk Kubah
+Sumatera Utara,Rumah Sakit,0212R003,RSUD Gunung Tua                                            ,Jl. Raya Gunung Tua-Binanga
+Sumatera Utara,Rumah Sakit,0023R005,RSUD Sibuhuan                                            ,"Jl. Kh. Dewantara, Sibuhuan"
+Sumatera Utara,Rumah Sakit,0217R001,RSUD Gunung Sitoli                                            ,Jl. Dr Ciptomangunkusumo No 15
+Sumatera Utara,Rumah Sakit,0500R000,RSUD Aek Kanopan                                            ,Jend. Sudirman No. 25
+Sumatera Utara,Rumah Sakit,0501R003,RSUD Kota Pinang                                            ,Istana No.26
+Sumatera Barat,Rumah Sakit,0040R001,RSUD Mentawai                                            ,Jl. Raya Tuapejat Km 9
+Sumatera Barat,Rumah Sakit,0042R007,Rumah Sakit BKM Painan                                    ,Jalan Jendral Sudirman
+Sumatera Barat,Rumah Sakit,0309R001,Rumah Sakit Umum Aro Suka                                            ,Aro Suka
+Sumatera Barat,Rumah Sakit,0045R005,Rsia Sayang Ibu                                             ,Jl. Hamka No.273
+Sumatera Barat,Rumah Sakit,0046R002,RSUD Padang Pariaman                                            ,Jl. Raya Pdg - Bkt Km 42
+Sumatera Barat,Rumah Sakit,0047R002,RSIA Rizki Bunda                                            ,Jl.Gajah Mada No.435A
+Sumatera Barat,Rumah Sakit,0313R001,RSUD Achmad Darwis                                            ,Jl. Tan Malaka No. 1 Suliki
+Sumatera Barat,Rumah Sakit,0049R001,Rsi Ibnu Sina Panti                                    ,Jalan Raya Bukittinggi Medan
+Sumatera Barat,Rumah Sakit,0050R049,RSU Aisyiah Padang                                            ,Jl. H Agus Salim No 6
+Sumatera Barat,Rumah Sakit,0043R001,Rumkit Tk. Iv Solok                                            ,Jl. Proklamasi No. 3
+Sumatera Barat,Rumah Sakit,0310R001,RSU Sawahlunto                                            ,Jalan  R.A Kartini No 18 
+Sumatera Barat,Rumah Sakit,0306R001,RSU Padang Panjang                                            ,Jl. Tabek Gadang. Ganting
+Sumatera Barat,Rumah Sakit,0304R001,Rsam Bukittinggi                                            ,Jl.Dr.A Rivai Bukittinggi
+Sumatera Barat,Rumah Sakit,0055R001,Rsia Sukma Bunda                                    ,Soekarno-Hatta
+Sumatera Barat,Rumah Sakit,0302R001,RSUD Pariaman                                            ,Jl.Prof.M.Yamin No. 5 Pariaman
+Sumatera Barat,Rumah Sakit,0317R001,RSUD Pasaman Barat                                            ,Jambak
+Sumatera Barat,Rumah Sakit,0318R001,Rumah Sakit Muara Labuh                                            ,Muara Labuh
+Sumatera Barat,Rumah Sakit,0319R001,Rumah Sakit Sungai Dareh                                            ,Jl.Lintas Sumatera Km2Pulau P
+Riau,Rumah Sakit,0057R001,Rsia Milano                                            ,Jl. Perintis Kemerdekaan Km 2 
+Riau,Rumah Sakit,0058R001,Rumah Sakit Kasih Ibu                                            ,Jl Azki Aris 
+Riau,Rumah Sakit,0059R002,RSUD Raja Musa Sei Guntung                                            ,Kota Sungai Guntung
+Riau,Rumah Sakit,0060R003,RS Efarina                                             ,Jl. Lintas Timur No. 1
+Riau,Rumah Sakit,0412R001,RSUD Tengku Rafi'An Siak                                            ,Jl Raja Kecik No I
+Riau,Rumah Sakit,0062R006,Rsia Bunda Anisyah                                            ,Jl. Raya Pku-Bkn Km. 52 Kampar
+Riau,Rumah Sakit,0063R002,RS Awal Bros Ujung Batu                                            ,Jl Sudirman No 314
+Riau,Rumah Sakit,0064R002,RSUD Kec. Mandau                                            ,Jl. Stadion No.10 Duri
+Riau,Rumah Sakit,0065R003,RS Indah                                            ,Jl. Jend. Sudirman Km.2 B.Batu
+Riau,Rumah Sakit,0069R008,RS Awal Bros                                            ,Jl Jend Sudirman No 117
+Riau,Rumah Sakit,0408R001,RSUD Dumai                                            ,Jl Tanjung Jati No 4 Dumai
+Riau,Rumah Sakit,0488R001,RSUD Kab. Kep. Meranti                                            ,Jl. Dorak Selat Panjang
+Jambi,Rumah Sakit,0074R001,RS Raudhah                                            ,Lintas Sumatera Km 1 Bukit Aur
+Jambi,Rumah Sakit,0507R001,RSUD H.M. Chatib Quzwain                                            ,Lintas Sumatera Km 09 Ds Bukit
+Jambi,Rumah Sakit,0076R001,RS Mitra Medika                                            ,Jl. Gajah Mada
+Jambi,Rumah Sakit,0077R002,RSUD Sungai Bahar                                            ,Desa Suka Makmur
+Jambi,Rumah Sakit,0509R001,RSUD Nurdin Hamzah                                            ,Jln. Wr. Supratmani No.1 Parit
+Jambi,Rumah Sakit,0503R001,RSUD. Kh. Daud Arif                                            ,Jl.Syarif Hidayatullah No. 14
+Jambi,Rumah Sakit,0508R001,RSUD S.Thaha Saifuddin Tebo                                            ,S.Thaha Saifuddin  Km 4 M.Tebo
+Jambi,Rumah Sakit,0081R003,RSU Bersaudara                                            ,Lintas Sumatera Km 04 Simp.Skb
+Jambi,Rumah Sakit,0082R003,RSUD Abdul Manap                                            ,Jl. Sk. Rd. Syahbuddin
+Jambi,Rumah Sakit,0506R001,RSU Mayjen H. A.Thalib Kerinci                                            ,Basuki Rahmat
+Sumatera Selatan,Rumah Sakit,0083R001,Rumkit Dr. Noesmir Baturaja                                            ,Jl. Dr. Moh Hatta No 64 Bakung
+Sumatera Selatan,Rumah Sakit,0603R001,RSUD Kayu Agung                                            ,Jl. Letjend Yusuf Singedekane 
+Sumatera Selatan,Rumah Sakit,0085R009,RS Bukit Asam Medika                                    ,JL. Raya Bukit Asam No 118
+Sumatera Selatan,Rumah Sakit,0086R001,RS Dkt Lahat                                            ,Jl. Letjen Haroen Sohar No. 26
+Sumatera Selatan,Rumah Sakit,0087R004,RSUD Muara Beliti                                    , Jl. Pangeran Moehamad Amin Ko
+Sumatera Selatan,Rumah Sakit,0088R002,RSUD Bayung Lincir                                            ,Jl. Raya Palembang Jambi Km. 2
+Sumatera Selatan,Rumah Sakit,0089R002,RS Ar Bunda                                            ,Garuda No.245
+Sumatera Selatan,Rumah Sakit,0090R010,Rsk Paru-Paru                                            ,Jl Merdeka No 10
+Sumatera Selatan,Rumah Sakit,0091R005,RS. Fadilah                                            ,Jl. Jend Sudirman No.01
+Sumatera Selatan,Rumah Sakit,0613R001,RSUD Besemah                                            ,Ais Nasution No.03
+Sumatera Selatan,Rumah Sakit,0614R001,RS Kusta Rivai Abdulah                                            ,Jl. Dr Rivai Abdullah Mariana
+Sumatera Selatan,Rumah Sakit,0429R001,RSUD Ogan Ilir                                            ,Komp. Perkantoran Pemda Ogan I
+Sumatera Selatan,Rumah Sakit,0431R002,RSUD Martapura                                            ,Jln. Adiwiyata Kota Baru Lengo
+Sumatera Selatan,Rumah Sakit,0432R001,RSUD Muara Dua                                            ,Jl.Raya Ranau Bumi Agung Jaya 
+Sumatera Selatan,Rumah Sakit,0451R000,RSUD Tebing Tinggi                                            ,RSUD Tebing Tinggi Jln.Noedin 
+Sumatera Selatan,Rumah Sakit,0609R006,RS Talang Ubi                                            ,Jalan Taman Siswa
+Sumatera Selatan,Rumah Sakit,0087R002,RSUD Rupit                                            ,Jl. Kesehatan No. 01
+Bengkulu,Rumah Sakit,0094R001,RSU As-Syifa                                    ,Jl Gerak Alam
+Bengkulu,Rumah Sakit,0703R001,RSUD Curup                                            ,Jl.Basuki Rahmat No.10 Curup
+Bengkulu,Rumah Sakit,0096R004,RS Hanna Charitas                                            ,Jl Ir Soekarno Rama Agung No.1
+Bengkulu,Rumah Sakit,0097R009,RSUD Kota Bengkulu                                            ,Jalan Basuki Rahmat 
+Bengkulu,Rumah Sakit,0705R001,RSUD Muko-Muko                                            ,Jl.Danau Nibung Kota Praja 
+Bengkulu,Rumah Sakit,0706R001,RSUD Tais                                            ,Jalan Raya Bengkulu-Manna Km64
+Bengkulu,Rumah Sakit,0402R003,RSUD Kaur                                            ,Jalan Raya Lintas Barat
+Bengkulu,Rumah Sakit,0440R001,RSUD Lebong                                            ,Jln. Muning Agung
+Bengkulu,Rumah Sakit,0708R001,RSUD Kepahiang                                            ,Jl.Raya Kepahiang-Bengkulu Km 
+Bengkulu,Rumah Sakit,0486R001,RSUD Bengkulu Tengah                                            ,Jalan Raya Bengkulu-Kepahiang 
+Lampung,Rumah Sakit,0098R003,Rumah Sakit Ibu Dan Anak Bunda                                            ,"Jl. Raden Intan No:36, Liwa"
+Lampung,Rumah Sakit,0099R001,RSUD Kota Agung                                            ,Jl. Soekarno Hatta Islamic Cen
+Lampung,Rumah Sakit,0100R008,RSUD Bandar Negara Husada                                    ,Kompleks Kota Baru Pemprov Lam
+Lampung,Rumah Sakit,0101R011,Rsia Mawar                                    ,Jl. Raya Lintas Timur Plangkaw
+Lampung,Rumah Sakit,0102R002,RS Mitra Mulia Husada                                            ,Proklamator Raya No.162-164
+Lampung,Rumah Sakit,0103R003,RS Umum Handayani                                            ,Soekarno Hatta No.94 Kotabumi
+Lampung,Rumah Sakit,0104R004,RS Haji Kamino                                            ,Jl. Sriwijaya No. 56 
+Lampung,Rumah Sakit,0105R015,RS Penawar Medika                                    ,Jl. Lintas Timur Sumatera
+Lampung,Rumah Sakit,0106R009,RSUD Dr A Dadi Tjokrodipo                                            ,Jl. Basuki Rahmat No. 73
+Lampung,Rumah Sakit,0107R004,Rsia Anugrah Medical Center                                            ,Kunang No 15 Kauman
+Lampung,Rumah Sakit,0471R001,RSUD Pesawaran                                            ,Jl Raya Kedondong
+Lampung,Rumah Sakit,0493R001,RS Asy-Syfa Medika                                    ,Jl. Jend. Sudirman
+Lampung,Rumah Sakit,0494R001,RSUD Ragab Begawe Caram Mesuji                                    ,Jl. ZA. Pagar Alam 
+Lampung,Rumah Sakit,0511R000,Wismarini (Jst)                                            ,Jl Wisma Rini No 1
+Kep. Bangka Belitung,Rumah Sakit,0108R006,Medika Stannia                                            ,Jenderal Sudirman No. 3
+Kep. Bangka Belitung,Rumah Sakit,0109R004,RS Almah                                            ,Jl. Jend.Sudirman
+Kep. Bangka Belitung,Rumah Sakit,0110R003,Bhakti Wara                                            ,Jl. Solihin Gp No 180 Pangkal 
+Kep. Bangka Belitung,Rumah Sakit,0615R001,RSUD Bangka Selatan                                            ,Jl Raya Gadung Toboali
+Kep. Bangka Belitung,Rumah Sakit,0377R002,RS Bakti Timah Muntok                                            ,Jl. Raya Timah Komplek Unmet
+Kep. Bangka Belitung,Rumah Sakit,0378R002,Rumah Sakit Siloam Bangka                                    ,Jl. Soekarno Hatta Km.05 Kel. 
+Kep. Bangka Belitung,Rumah Sakit,0618R001,RSUD Belitung Timur                                            ,Jl.Raya Gantung
+DKI Jakarta,Rumah Sakit,0112R016,RS Bhayangkara Sespimma Polri                                            ,"Jl, Ciputat Raya No. 40"
+DKI Jakarta,Rumah Sakit,0113R001,Rumkit Pusdikkes Kodiklat Ad                                    ,Jl. Raya Bogor
+DKI Jakarta,Rumah Sakit,0114R017,Ladokgi TNI AL RE Martadinata                                            ,Jl. Farmasi No. 1 Bend. Hilir
+DKI Jakarta,Rumah Sakit,0115R019,RS Umum Siloam Kebon Jeruk                                    ,jl. pejuangan KAV. VIII
+DKI Jakarta,Rumah Sakit,0116R021,Royal Progress                                            ,Danau Sunter Utara
+DKI Jakarta,Rumah Sakit,0483R001,RSUD Kepulauan Seribu                                            ,Jl. Pulau Pramuka
+Jawa Barat,Rumah Sakit,0093R008,RS Kasih Bunda                                            ,Jl Mahar Martanegara No 166
+Jawa Barat,Rumah Sakit,0111R002,RS Banjar Patroman                                            ,Stadion Patroman Kav Iii No 5
+Jawa Barat,Rumah Sakit,0117R007,RSUD Leuwiliang                                            ,Jl Raya Cibeber
+Jawa Barat,Rumah Sakit,0118R005,RS Bhakti Medicare                                            ,Cicurug
+Jawa Barat,Rumah Sakit,0119R002,RSUD Pagelaran                                            ,Jalan Raya Pagelaran No. 18 
+Jawa Barat,Rumah Sakit,0120R004,RSUD Cicalengka                                            ,Jl. H. Darham  Kp. Cikopo
+Jawa Barat,Rumah Sakit,0121R003,RSUD Pameungpeuk                                            ,Miramare No 99 Pameungpeuk
+Jawa Barat,Rumah Sakit,0122R002,RSUD Smc                                            ,Raya Rancamaya Singaparna
+Jawa Barat,Rumah Sakit,0123R004,RSU Permata Bunda Ciamis                                            ,Jalan. Mr. Iwa Kusumasomantri 
+Jawa Barat,Rumah Sakit,0124R006,RSU El-Syifa                                            ,Jl. R.E Martadinata No 108
+Jawa Barat,Rumah Sakit,0125R003,RS Pertamina cirebon                                            ,Jl. Patra raya Klayan No.1
+Jawa Barat,Rumah Sakit,0126R003,RSKB Budi Kasih                                            ,Jl. Siliwangi Km. 7 No 84 Pany
+Jawa Barat,Rumah Sakit,0127R007,Rumah Sakit Harapan Keluarga                                            ,Jalan Raya Rancaekek Cipacing 
+Jawa Barat,Rumah Sakit,0128R003,RSUD Pantura MA Sentot PATROL                                             ,Jl. Raya Patrol Km.46
+Jawa Barat,Rumah Sakit,0129R004,Ptpn Viii (Jst)                                            ,Jl.Otto Iskandar Dinata No.1
+Jawa Barat,Rumah Sakit,0130R005,RS Siloam Purwakarta                                            ,Bungursari No.01
+Jawa Barat,Rumah Sakit,0131R002,RS Izza                                            ,"Jl. Raya Ciselang, Cikampek"
+Jawa Barat,Rumah Sakit,0132R013,RS Annisa                                            ,Jl. Cikarang Baru No.31 
+Jawa Barat,Rumah Sakit,0133R009,RS Medika Dramaga                                            ,"Jl Raya Dramaga Km 7,3"
+Jawa Barat,Rumah Sakit,0134R004,Rsi Assyifa Sukabumi                                            ,Jl. Jend Sudirman No 3
+Jawa Barat,Rumah Sakit,0135R004,RS. Advent                                            ,Jl.Cihampelas No 161
+Jawa Barat,Rumah Sakit,0136R003,RS Budi Luhur                                            ,Jl Pramuka / Kebon Pelok
+Jawa Barat,Rumah Sakit,0137R016,RS Jati Sampurna                                            ,Jl. Studio Antv
+Jawa Barat,Rumah Sakit,0138R001,RS Meilia                                            ,Jl Alternatif Cibubur Km 1
+Jawa Barat,Rumah Sakit,0380R005,RS Tmc                                            ,Jl. K.H.Z Mustofa No. 310
+Jawa Barat,Rumah Sakit,0464R000,RSUD Cililin                                            ,Jl. Blok Cinta Karya
+Jawa Tengah,Rumah Sakit,0141R004,RSU Santa Maria                                            ,Jl. Jend A Yani No 38
+Jawa Tengah,Rumah Sakit,0142R011,Rumah Sakit Islam Purwokerto                                            ,Jl. H. Masyhuri No. 39
+Jawa Tengah,Rumah Sakit,0143R003,RSU Nirmala                                            ,Jl. Letnan Yusup
+Jawa Tengah,Rumah Sakit,1115R001,RSUD Hj. Anna Lasmanah Bna                                            ,"Jl. Jend. Sudirman 42, Bna"
+Jawa Tengah,Rumah Sakit,0145R008,RS. Purwogondo                                            ,Jl. Puring Km.8
+Jawa Tengah,Rumah Sakit,0146R007,RS. Palang Biru Kutoarjo                                            ,"Jl. Marditomo No.17, Kutoarjo,"
+Jawa Tengah,Rumah Sakit,0147R003,RS Pku Muhammadiyah Wonosobo                                            ,Jl. Gatot Subroto  
+Jawa Tengah,Rumah Sakit,0148R005,RS Aisyiyah Muntilan                                            ,KHA. Dahlan No.24 Muntilan
+Jawa Tengah,Rumah Sakit,0149R005,RSUD Simo                                            ,"Jl.Kebon Ijo Simo,Boyolali"
+Jawa Tengah,Rumah Sakit,0150R007,RSU PKU Muhammadiyah Delanggu                                            ,Jl. Raya Delanggu Utara No. 19
+Jawa Tengah,Rumah Sakit,0151R007,RS Dr. Oen Solo Baru                                            ,Perumahan Solo Baru
+Jawa Tengah,Rumah Sakit,0152R003,RS  Medika Mulya Wonogiri                                            ,"Jl. Wonogiri - Ngadirojo Km.5,"
+Jawa Tengah,Rumah Sakit,0153R002,Rsia Dian Pertiwi Karanganyar                                            ,Jl. Lawu Km. 12 Kodokan
+Jawa Tengah,Rumah Sakit,0154R001,RS Islam Amal Sehat Sragen                                            ,Jl. Veteran No. 35
+Jawa Tengah,Rumah Sakit,0155R006,RS Habibullah Grobogan                                            ,Jl. Raya TahunanDusun. Banjar
+Jawa Tengah,Rumah Sakit,0156R003,Rumkitban Blora                                            ,Jl. Dr. Soetomo No. 45 Blora
+Jawa Tengah,Rumah Sakit,0157R003,RSI Arafah Rembang                                            ,Jl. Raya Rembang - Lasem Km 5 
+Jawa Tengah,Rumah Sakit,0158R004,RSUD Kayen                                            ,Jl. Rs Kayen Pati
+Jawa Tengah,Rumah Sakit,0159R008,RSU Aisyiyah                                            ,Hos Cokroaminoto No 248
+Jawa Tengah,Rumah Sakit,0160R003,Rsi Sultan Hadlirin Jepara                                            ,Jl. Raya Jepara-Bangsri Km 3
+Jawa Tengah,Rumah Sakit,1131R003,Rsi Nahdlatul Ulama Demak                                            ,Jl. Jogoloyo No.9 Demak
+Jawa Tengah,Rumah Sakit,0162R001,rs ken saras                                            ,Jl.Raya Soekarno-Hatta Km.29
+Jawa Tengah,Rumah Sakit,0163R005,RS Gunung Sawo Temanggung                                            ,Jl. Gatot Subroto km 2
+Jawa Tengah,Rumah Sakit,0164R001,RS Darul Istiqomah                                            ,Jl. Sekopek No.15
+Jawa Tengah,Rumah Sakit,0165R005,RS Qolbu Insan Mulia                                            ,Jl. Urip Sumoharjo
+Jawa Tengah,Rumah Sakit,0166R001,Rsia Aisyiyah Pekajangan                                            ,Jl. Raya Pekajangan No. 610 
+Jawa Tengah,Rumah Sakit,0167R004,RSU Siaga Medika                                            ,Jl. Perintis Kemerdekaan
+Jawa Tengah,Rumah Sakit,0168R002,RSUD Suradadi                                            ,Jl Raya Pemalang-Tegal Km 12
+Jawa Tengah,Rumah Sakit,0169R003,Dera As-Syifa                                            ,Merdeka Banjarharjo
+Jawa Tengah,Rumah Sakit,0170R008,RSJ Prof. dr. Soerojo Magelang                                            ,Jl. A. Yani No. 169 Magelang
+Jawa Tengah,Rumah Sakit,0171R001,RSAU Lanud Adi Sumarmo                                            ,"Jl. Tentara Pelajar, Jetak, Bo"
+Jawa Tengah,Rumah Sakit,1122R001,RSUd SALATIGA                                            ,Jl. Osamaliki No.19 Salatiga
+Jawa Tengah,Rumah Sakit,0173R012,RS Permata Medika                                            ,Jl. Moch. Ichsan No.93-97
+Jawa Tengah,Rumah Sakit,0174R007,RSUD Bendan                                            ,Jl. Sriwijaya 02
+Jawa Tengah,Rumah Sakit,0175R007,RS Mitra Keluarga Tegal                                            ,Jl. Sipelem No. 4 Kemandungan 
+DI Yogyakarta,Rumah Sakit,0176R002,RSU Rizki Amalia Medika                                            ,Jl. Brosot-Wates Km 5 Jogahan 
+DI Yogyakarta,Rumah Sakit,0177R005,RS Nur Hidayah                                            ,"Jl. Imogiri Timur Km 11,5 "
+DI Yogyakarta,Rumah Sakit,0178R002,RS Nur Rohmah                                            ,Jl.Wonosari-Yogya Km7 Bandung 
+DI Yogyakarta,Rumah Sakit,0179R006,RS Bhayangkara Sleman                                            ,"Jalan Solo, Km.14,Tirtomartani"
+DI Yogyakarta,Rumah Sakit,0180R010,RS Mata Dr.Yap                                            ,Jl. Cik Ditiro No.5 Yogyakarta
+Jawa Timur,Rumah Sakit,0181R007,RS Agung Mulia                                            ,Jl. Sasuit Tubun Lingk. Bleber
+Jawa Timur,Rumah Sakit,0182R004,RS Muslimat                                            ,Jl. Jendral  Ahmad Yani No. 15
+Jawa Timur,Rumah Sakit,0183R002,RS. Budi Asih                                            ,Jl Mayjend Sungkono 80 Trengga
+Jawa Timur,Rumah Sakit,0184R002,Rsui Orpeha                                            ,Jl Khr. Abd Fatah Tulungagung
+Jawa Timur,Rumah Sakit,0185R003,RSU An Nisaa                                            ,Jl Suparyono Timur 1 Bajang
+Jawa Timur,Rumah Sakit,0186R002,Aura Syifa                                            ,Jl. Joyoboyo 42 Ngasem Kediri
+Jawa Timur,Rumah Sakit,0187R006,RSUD Lawang                                            ,Jl. R.A. Kartini No 5 
+Jawa Timur,Rumah Sakit,0188R003,RS Wijaya Kusuma                                            ,Jl. Jendral Ahmad Yani  No.149
+Jawa Timur,Rumah Sakit,0189R008,RS Citra Husada                                             ,Jl. Teratai NO 22
+Jawa Timur,Rumah Sakit,0190R002,RS Nahdlatul Ulama Banyuwangi                                            ,Jl. Raya Mangir Rogojampi
+Jawa Timur,Rumah Sakit,0191R003,RS Bhayangkara Bondowoso                                            ,Jenpol Sucipto Judodiharjo 12
+Jawa Timur,Rumah Sakit,0192R002,RS Elizabeth Situbondo                                            ,Jl. Wr Supratman No.2
+Jawa Timur,Rumah Sakit,0193R003,RS Graha Sehat                                            ,Panglima Sudirman 2 Kraksaan
+Jawa Timur,Rumah Sakit,0194R003,RS Bhayangkara Watukosek                                            ,Watukosek
+Jawa Timur,Rumah Sakit,0195R001,Rumkitban Sidoarjo                                            ,Jl. Dr. Sutomo No. 2
+Jawa Timur,Rumah Sakit,0196R007,RS Arofah                                            ,Jln Gajah Mada No. 1
+Jawa Timur,Rumah Sakit,0197R002,RS Unipdu Medika                                            ,Jl. Raya Peterongan - Jogoroto
+Jawa Timur,Rumah Sakit,0198R004,Rsi Aisyiyah                                            ,Jl. Imam Bonjol 20 Nganjuk
+Jawa Timur,Rumah Sakit,0199R003,RSUD Dolopo                                            ,Jl Raya Dolopo Madiun
+Jawa Timur,Rumah Sakit,0200R002,RSAU dr. EFRAM HARSANA                                            ,Jl Raya Solo Maospati
+Jawa Timur,Rumah Sakit,0201R003,RS Widodo                                            ,Jl. Yos Sudarso 8
+Jawa Timur,Rumah Sakit,0202R004,RS Bhayangkara Wahyu Tutuko                                            ,"Panglima Sudirman No. 165,168,"
+Jawa Timur,Rumah Sakit,0203R005,RS Muhammadiyah Tuban                                            ,Diponegoro No 1
+Jawa Timur,Rumah Sakit,0204R003,RSUD NGIMBANG lamongan                                            ,Jl. Raya Babat Jombang 227
+Jawa Timur,Rumah Sakit,0205R009,RS Denisa                                            ,Jl. Dr. Wahidin Sh 736
+Jawa Timur,Rumah Sakit,0206R005,RS Lukas Bangkalan                                            ,Jl K.H Moch Kholil No 36A
+Jawa Timur,Rumah Sakit,1335R001,RSUD Sampang                                            ,Jl. Rajawali No.10
+Jawa Timur,Rumah Sakit,0208R006,RS Larasati Pamekasan                                            ,Jalan Mandilaras No. 74-80
+Jawa Timur,Rumah Sakit,0209R003,RS Sumekar Sumenep                                            ,Jl. Arya Wiraraja No.99
+Jawa Timur,Rumah Sakit,0210R005,RS Daha Husada                                            ,Jl. Veteran 48 Kediri
+Jawa Timur,Rumah Sakit,0211R004,RSU Aminah                                            ,Jl Veteran 39 Blitar
+Jawa Timur,Rumah Sakit,0212R004,Rsi Aisyiyah Malang                                            ,Jl Sulawesi No. 16
+Jawa Timur,Rumah Sakit,0213R002,RS Dharma Husada (Jst)                                            ,Soekarno Hatta No. 10
+Jawa Timur,Rumah Sakit,1325R001,RSUD Dr.R.Soedarsono                                            ,Jl. Dr. Wahidin Selatan
+Jawa Timur,Rumah Sakit,0215R004,RS Gatoel                                            ,Jl Raden Wijaya No. 56
+Jawa Timur,Rumah Sakit,0216R005,RSI Siti Aisyah                                            ,Mayjend Sungkono 38-40
+Jawa Timur,Rumah Sakit,0217R002,Rsia Bantuan 05.08.05 Surabaya                                            ,Jl. Gubeng Pojok No.21
+Jawa Timur,Rumah Sakit,0433R001,RS Bhayangkara Hasta Brata                                            ,Jl. Kartini No 1 Batu
+Banten,Rumah Sakit,1007R001,RSU Pandeglang                                            ,Jl. Raya Labuan Km 05 Cikoneng
+Banten,Rumah Sakit,0220R004,RS Misi Lebak                                            ,Jalan Multatuli No.41
+Banten,Rumah Sakit,0221R007,Rumah Sakit Mitra Husada                                            ,Jl.Kp.Melayu Barat No 11A
+Banten,Rumah Sakit,0222R005,RS Hermina Ciruas                                            ,Jl. Raya Serang-Jakarta Km.9
+Banten,Rumah Sakit,0223R010,RS Awal Bros Tangerang                                    ,Mh Thamrin No 3 Kebon Nanas
+Banten,Rumah Sakit,0224R002,RS Krakatau Medika                                            ,Semang Raya No. 01
+Banten,Rumah Sakit,0222R004,RS Sari Asih Serang                                            ,Jl. Jendral Sudirman No. 38
+Banten,Rumah Sakit,0496R001,RS Omni Alam Sutera                                    ,Jl. Alam Sutera Boulevard Kav.
+Bali,Rumah Sakit,0225R004,RSU Bunda                                             ,"Jalan Rajawali No. 36, Pendem,"
+Bali,Rumah Sakit,0226R005,RS Bhakti Rahayu Tabanan                                            ,Jln Batukaru No. 2 
+Bali,Rumah Sakit,0227R003,RSU Surya Husadha Nusadua                                            ,Jln Raya Siligita Blok I No 14
+Bali,Rumah Sakit,0228R005,RSU Ganesha                                            ,Jl.Raya Celuk Sukawati
+Bali,Rumah Sakit,0229R003,RSU Bintang                                            ,Ngurah Rai 10
+Bali,Rumah Sakit,0230R005,RSU Bmc                                            ,"Jln. Tirta Giri Kutri, Lc Suba"
+Bali,Rumah Sakit,0231R001,RSU Bali Med Karangasem                                            ,Jalan Nenas Kecicang Bebandem
+Bali,Rumah Sakit,0232R007,RS Shanti Graha                                            ,Dsn.Taman Sari Ds.Sulanyah
+Bali,Rumah Sakit,0233R017,RSU Bali Royal                                            ,Jl. Tantular No. 6
+Nusa Tenggara Barat,Rumah Sakit,0234R001,RSUD Awet Muda Narmada                                    ,Jl Ahmad Yani No 69 Narmada
+Nusa Tenggara Barat,Rumah Sakit,0235R002,Rsi Yatofa                                            ,Jl. Raya Praya Mantang Km. 7 B
+Nusa Tenggara Barat,Rumah Sakit,0236R003,Rumah Sakit Islam Namira                                            ,Jl. K.H. Akhmad Dahlan No 17 
+Nusa Tenggara Barat,Rumah Sakit,2305R002,RSUD Dompu                                            ,Jl. Kesehatan No. 1 Dompu
+Nusa Tenggara Barat,Rumah Sakit,0239R001,RSUD Sondosia                                            ,Jl Lintas Sumbawa Ds Sondosia
+Nusa Tenggara Barat,Rumah Sakit,0240R008,Rumah Sakit Umum Kota Mataram                                            ,Jl. Bung Karno Mataram
+Nusa Tenggara Barat,Rumah Sakit,0346R002,RS H. L. Manambai Abdul Kadir                                            ,Jl. Lintas Sumbawa-Bima Km 5
+Nusa Tenggara Barat,Rumah Sakit,0421R003,RS Pku Muhammadiyah Bima                                            ,Jalan Gajah Mada No. 6
+Nusa Tenggara Barat,Rumah Sakit,0450R000,RSUD Asy-Syifa'                                            ,Jl. Lang Sesat Tanah Mira
+Nusa Tenggara Barat,Rumah Sakit,0509R000,RSUD Tanjung                                            ,Jl. Tioq Tata Tunaq Tanjung
+Nusa Tenggara Timur,Rumah Sakit,2412R001,RSUD Waikabubak                                            ,Jl.Adyaksa Km.4 Waikabubak
+Nusa Tenggara Timur,Rumah Sakit,2411R001,RSUD Umbu Rara Meha                                            ,Jl. Adam Malik
+Nusa Tenggara Timur,Rumah Sakit,0244R001,RSUD Naibonat                                            ,Jalan Timor Raya KM 37 
+Nusa Tenggara Timur,Rumah Sakit,2402R001,RSUD Soe                                            ,Jl.Bougenvile No.7 Kab. T.T.S 
+Nusa Tenggara Timur,Rumah Sakit,0246R003,RSU Leona Kefamenanu                                    ,Jalan El Tari Km 5
+Nusa Tenggara Timur,Rumah Sakit,2404R001,RSUD Atambua                                            ,Jl. Soetomo No 2  Atambua
+Nusa Tenggara Timur,Rumah Sakit,2405R001,RSUD Kalabahi                                            ,Jalan  Dr. Soetomo N0. 08
+Nusa Tenggara Timur,Rumah Sakit,2414R001,RS Bukit Lewoleba                                            ,Lewoleba
+Nusa Tenggara Timur,Rumah Sakit,2406R001,RSUD dr. Hendrikus Fernandez                                             ,"Jl.Sudirman,Larantuka"
+Nusa Tenggara Timur,Rumah Sakit,2407R001,RSUD dr. TC HILLERS                                            ,Wairklau
+Nusa Tenggara Timur,Rumah Sakit,2408R001,RSUD Ende                                            ,Jl. Prof.Dr.W.Z.Yohanes
+Nusa Tenggara Timur,Rumah Sakit,2409R001,RSUD Bajawa                                            ,JL. DiPonegoro Nomor 5
+Nusa Tenggara Timur,Rumah Sakit,2410R001,BLUD RSUD dr. Ben Mboi                                            ,"Jl. Dr. Soetomo No.1, Nekang, "
+Nusa Tenggara Timur,Rumah Sakit,0351R007,RSUD S. K. Lerik                                            ,Jalan Timor Raya Nomor 134 
+Nusa Tenggara Timur,Rumah Sakit,2415R001,RSUD Baa                                            ,Jln. Baa Busalangga 
+Nusa Tenggara Timur,Rumah Sakit,0422R001,Siloam Hospital Labuan Bajo                                            ,Gabriel Gampur
+Nusa Tenggara Timur,Rumah Sakit,0453R001,RSUD Waibakul                                            ,Jl. Raya Waihibur Ds U.Mamijuk
+Nusa Tenggara Timur,Rumah Sakit,2412R003,RS Karitas                                            ,Jl. Bulgur Waitabula
+Nusa Tenggara Timur,Rumah Sakit,0495R000,RSUD Sabu Raijua                                            ,Jl. Eltari Seba 
+Nusa Tenggara Timur,Rumah Sakit,0247R005,Rspp Betun                                            ,Jl. Sukabihanawa Nomor 2
+Kalimantan Barat,Rumah Sakit,0139R009,RSU Santo Vincentius                                    ,Jl P. Diponegoro No 05
+Kalimantan Barat,Rumah Sakit,0257R010,RSU Santa Elisabeth                                    ,Gusti Hamzah No.29 
+Kalimantan Barat,Rumah Sakit,1508R001,RSUD Bengkayang                                    ,Jl Sanggau Ledo No 20
+Kalimantan Barat,Rumah Sakit,1509R001,RSUD Kabupaten Landak                                            ,"Jl. Pemuda, Ngabang-Sanggau"
+Kalimantan Barat,Rumah Sakit,1502R001,RSUD Dr.Rubini Mempawah                                            ,"Jl. Daeng Manambon, Mempawah"
+Kalimantan Barat,Rumah Sakit,0261R004,RS Parindu                                    ,Dusun Dohik Empaning Desa Binj
+Kalimantan Barat,Rumah Sakit,0262R004,Rsia Permata Bunda                                            ,JL.BRIGJEND KATAMSO no. 07
+Kalimantan Barat,Rumah Sakit,0263R001,Rumkit Tk. Iv Sintang                                            ,Jl. MT HARYONO KM 3 
+Kalimantan Barat,Rumah Sakit,0264R002,RS Bergerak Badau                                    ,Jl.LINTAS BADAU NA.KANTUK
+Kalimantan Barat,Rumah Sakit,0265R010,RSUD Sultan Sy M. Alkadri                                            ,Jln. Kom Yos Sudarso
+Kalimantan Barat,Rumah Sakit,0446R001,RS Citra Husada                                     ,Jl.Dharma Bakti No 45
+Kalimantan Barat,Rumah Sakit,1512R001,RSUD Sekadau                                            ,Jln. Merdeka Timur Km 6
+Kalimantan Barat,Rumah Sakit,0456R001,RSUD Sultan Muhammad Jamaludin                                    ,"Jl. Provinsi, Sukadana - Teluk Batang, Dusun Senebing, Desa Harapan Mulia Kec. Sukadana"
+Kalimantan Barat,Rumah Sakit,0460R002,Rsia Anugrah                                            ,Jl. Sungai Raya Dalam No.43
+Kalimantan Tengah,Rumah Sakit,1401B004,RS Jiwa Kalawa Atei                                            ,l. Trans Palangka Raya - Kuala
+Kalimantan Tengah,Rumah Sakit,0256R003,RSUD Hanau Seruyan                                            ,Jl Sampit-Pangkalan Bun Km 42
+Kalimantan Tengah,Rumah Sakit,1402R001,RSU St Imanuddin                                            ,Sutan Syahrir 17 Pangkalanbun
+Kalimantan Tengah,Rumah Sakit,1403R001,RSU Dr Murjani Sampit                                            ,Jl. Hm Arsyad  No. 65 Sampit
+Kalimantan Tengah,Rumah Sakit,1408R001,RSUD.H.Soemarno.S.                                            ,Jl.Tambun Bungai No.16
+Kalimantan Tengah,Rumah Sakit,1406R001,RSUD Jaraga Sasameh                                            ,Jl. Patianom No.06
+Kalimantan Tengah,Rumah Sakit,1404R001,RSUD Muara Teweh                                            ,Jl. Yetro Sinseng No.02
+Kalimantan Tengah,Rumah Sakit,1413R001,RSUD Sukamara                                            ,Jl.Tjilik Riwut Km 5.5 Sukamar
+Kalimantan Tengah,Rumah Sakit,1414R001,RSUD  Lamandau                                            ,Jl. Trans Kalimantan Km 4
+Kalimantan Tengah,Rumah Sakit,1407R001,RSUD Tamiang Layang                                            ,Jl.Nansarunai No.2 T.Layang
+Kalimantan Tengah,Rumah Sakit,1410R001,RSUD Kasongan                                            ,Jl. Rumah Sakit No. 01
+Kalimantan Tengah,Rumah Sakit,1409R001,RSUD Kuala Kurun                                            ,Jl. Ahmad Yani No.43
+Kalimantan Tengah,Rumah Sakit,1405R001,RSUD Puruk Cahu                                            ,Jl.Dikin No. 497
+Kalimantan Tengah,Rumah Sakit,0280R003,Rsi Pku Muhammadiyah Palangka                                            ,Jl. Rta Milono Km 2.5
+Kalimantan Selatan,Rumah Sakit,0281R001,Rumah Sakit Bersalin Ainun                                            ,Jalan Matah No. 39 RT 6 RW 2
+Kalimantan Selatan,Rumah Sakit,1707R007,RSUD Kotabaru                                            ,Jl. Hasan Basri Kotabaru No 57
+Kalimantan Selatan,Rumah Sakit,0283R001,Rsj Sambang Lihum                                            ,"Jl. Gubernur Syarkawi Km 3,9"
+Kalimantan Selatan,Rumah Sakit,1702R002,RSUD Abd Azis Marabahan                                            ,Jl.Jend.Sudirman No.10
+Kalimantan Selatan,Rumah Sakit,1706R006,RSUD Datu Sanggul                                            ,Jl. Brigjen Hasan Basri Km. 1
+Kalimantan Selatan,Rumah Sakit,0286R002,RS Ceria                                            ,Jl. Jend. Sudirman No. 10
+Kalimantan Selatan,Rumah Sakit,1708R008,RSUD. H. Damanhuri                                            ,Jl. Murakata No. 04
+Kalimantan Selatan,Rumah Sakit,1710R010,RSUD. Pambalah Batung                                            ,Jl. Jend. Basuki Rahmat No.01
+Kalimantan Selatan,Rumah Sakit,0289R013,RS Pertamina Tanjung                                            ,Jl.Gas No.1 Komp.Pertamina
+Kalimantan Selatan,Rumah Sakit,0290R003,RS Bhayangkara Banjarmasin                                            ," Jl. A. Yani Km.3,5 Banjarmas"
+Kalimantan Selatan,Rumah Sakit,0291R020,RS Tk. Iv Guntung Payung                                            ,Jl. A. Yani Km. 31
+Kalimantan Selatan,Rumah Sakit,0381R001,RSB Paradise                                              ,Jl. Ins-Gub No. 267  
+Kalimantan Selatan,Rumah Sakit,1713R013,RSUD. Balangan                                            ,"Jl. Lingkar Timur Km 1,7"
+Kalimantan Timur,Rumah Sakit,0140R001,RS Muhammadiyah Paser                                    ,Jl. Dr. Cipto Mangunkusumo
+Kalimantan Timur,Rumah Sakit,1613R001,RSUD Penajam Paser Utara                                            ,Jl. Provinsi Km.09 Nipah-Nipah
+Kalimantan Timur,Rumah Sakit,1609R003,RSUD Harapan Insan Sendawar                                            ,Jl Sultan Hasanudin 
+Kalimantan Timur,Rumah Sakit,0294R001,RSUD Dayaku Raja                                             ,Poros Kota Bangun-Tenggarong
+Kalimantan Timur,Rumah Sakit,0295R102,RSU Medika Sangatta                                            ,Jln. Yos Sudarso Iv Sangatta
+Kalimantan Timur,Rumah Sakit,1606R001,RSUD Dr. Abdul Rivai                                            ,Jl. Pulau Panjang Tg. Redeb
+Kalimantan Timur,Rumah Sakit,0301R020,RS. Restu Ibu                                            ,Jl. Jend Achmad Yani No 12
+Kalimantan Timur,Rumah Sakit,0302R101,RS Qurrata A'Yun                                            ,Jl. Di. Panjaitan No. 77
+Kalimantan Timur,Rumah Sakit,0304R009,RS Islam Bontang                                            ,Jln. Brigjen Katamso No. 40
+Sulawesi Utara,Rumah Sakit,0305R010,RSUD Talaud                                            ,Jl. Raya  Mala - Melonguane
+Sulawesi Utara,Rumah Sakit,0306R010,RS Siloam GMIM Sonder                                            ,Raya Sonder
+Sulawesi Utara,Rumah Sakit,2106R001,Rsd Liun Kendage                                            ,Jl. Tatehe Kel. Apengsembeka K
+Sulawesi Utara,Rumah Sakit,2107R001,RSUD Datoe Binangkang                                            ,Jln. Desa Lolak II
+Sulawesi Utara,Rumah Sakit,0309R007,Siloam Hospitals Manado                                            ,Jl. Sam Ratulangi No. 22
+Sulawesi Utara,Rumah Sakit,2102R001,RS.Budi Mulia                                            ,Jl. Sam Ratulangi X/9A Kota Bi
+Sulawesi Utara,Rumah Sakit,0436R001,RSUD Amurang                                            ,Jalan Trans Sulawesi
+Sulawesi Utara,Rumah Sakit,2103R003,RSU Gunung Maria Tomohon                                            ,Tomohon
+Sulawesi Utara,Rumah Sakit,0439R000,RSUD Maria Walanda Maramis                                            ,Jl. Prof. Arnold Mononutu
+Sulawesi Utara,Rumah Sakit,0454R000,RSUD Kota Kotamobagu                                            ,D.C. Manoppo
+Sulawesi Utara,Rumah Sakit,0461R001,Rsup Ratatotok Buyat                                            ,J. W. Lasut Ratatotok
+Sulawesi Utara,Rumah Sakit,0462R001,RSUD Bolaang Mongondow Utara                                            ,Jln Desa Talaga Tomoagu
+Sulawesi Utara,Rumah Sakit,0467R001,RSUD Sawang                                            ,Kampung Sawang Kec. Siau Timur
+Sulawesi Utara,Rumah Sakit,0490R000,RSUD Bolaang Mongondow Selatan                                            ,Molibagu
+Sulawesi Tengah,Rumah Sakit,0292R002,Rsia Defina Parigi                                            ,Jl. Trans Sulawesi
+Sulawesi Tengah,Rumah Sakit,2004R001,RSUD Kabupaten Banggai                                            ,"Jl. Imam Bonjol No. 14, Km. 3"
+Sulawesi Tengah,Rumah Sakit,0311R004,RSUD Trikora Salakan                                            ,Jl. Trans Peling Km. 5 No. 01
+Sulawesi Tengah,Rumah Sakit,0313R004,RSUD Morowali                                            ,"Jl Trans S, Fonuasingko Bungku"
+Sulawesi Tengah,Rumah Sakit,0314R005,RGKST Tntena                                            ,Jl. Setia Budi No.98 Tentena (
+Sulawesi Tengah,Rumah Sakit,2001R008,RSUD Kabelota Donggala                                            ,Jl Trans Palu-Donggala
+Sulawesi Tengah,Rumah Sakit,2003R001,RSUD Mokopido Tolitoli                                            ,Jl.Lanoni No.37
+Sulawesi Tengah,Rumah Sakit,2006R001,RSUD Mokoyurli Buol                                            ,Jl Dr Wahidin Sudirohusodo No 
+Sulawesi Tengah,Rumah Sakit,0319R004,RS Woodward Palu                                            ,Jl.L.H. Woodward No. 1
+Sulawesi Tengah,Rumah Sakit,0412R002,RSUD Ampana                                            ,Jl. S. Hasanudin NO. 32 Ampana
+Sulawesi Tengah,Rumah Sakit,0510R002,RSUD Tora Belo                                            ,Jl Poros Palu-Palolo
+Sulawesi Tengah,Rumah Sakit,0313R002,RSUD Kolonodale                                            ,Jl.W.Monginsidi No. 2
+Sulawesi Tengah,Rumah Sakit,0311R002,RSUD Banggai                                            ,"Jl. Adean, Km. 7 Banggai"
+Sulawesi Selatan,Rumah Sakit,0237R003,RS Bintang Laut                                            ,Jln. Khm Kasim No.5
+Sulawesi Selatan,Rumah Sakit,1823R101,RSUD Kh. Hayyung                                            ,"Jl. Kh. Abd. Kadir Kasim , Kab"
+Sulawesi Selatan,Rumah Sakit,1809R101,RSUD H. A. Sulthan Dg. Radja                                            ,Jl.Serikaya No.17 Kab. Bulukum
+Sulawesi Selatan,Rumah Sakit,1807R101,RSUD Anwar Makkatutu Bantaeng                                            ,Jl Teratai No 20 Kab. Bantaeng
+Sulawesi Selatan,Rumah Sakit,1808R101,RSUD Lanto Dg Pasewang                                            ,Jl. Lingkar Kel. Empoang Selat
+Sulawesi Selatan,Rumah Sakit,0324R001,RS Maryam Citra Medika                                    ,"Jalan Poros Takalar, Kelurahan"
+Sulawesi Selatan,Rumah Sakit,0325R001,RSU. Thalia Irham                                            ,Poros Limbung Km 15
+Sulawesi Selatan,Rumah Sakit,1811R001,RSU. Sinjai                                            ,Jl.Jend. Sudirman
+Sulawesi Selatan,Rumah Sakit,1804R002,RS Tni Au Dr. Dody Sarjoto                                            ,Jl. By Pass Bandara Hasanuddin
+Sulawesi Selatan,Rumah Sakit,1805R101,RSUD Pangkep                                            ,Jl. Sultan Hasanudin 7
+Sulawesi Selatan,Rumah Sakit,1806R001,RSUD Barru                                            ,Jl. Lasawedi Coppo Barru
+Sulawesi Selatan,Rumah Sakit,0330R001,RS Hapsah                                            ,Urip Sumoharjo
+Sulawesi Selatan,Rumah Sakit,1812R001,RSUD La Temmamala                                            ,Jln Malaka Raya Watansoppeng
+Sulawesi Selatan,Rumah Sakit,0332R003,RSUD. Siwa                                            ,Jl.A. Djaja No. 1 Siwa
+Sulawesi Selatan,Rumah Sakit,0333R001,RSU Anugrah Pangkajene                                            ,Lanto Dg Pasewang No. 60
+Sulawesi Selatan,Rumah Sakit,0334R005,RS. Aisyiyah St. Khadijah                                            ,Jl. A. Abdullah No. 1 - 3
+Sulawesi Selatan,Rumah Sakit,1822R001,RSUD Massenrempulu Enrekang                                            ,Jl.Jend.Sudirman No.1
+Sulawesi Selatan,Rumah Sakit,0336R001,RS Hikmah Sejahtera Belopa                                            ,Jl. TOPOKA NO. 22 B
+Sulawesi Selatan,Rumah Sakit,0337R001,RS Sinar Kasih                                    ,Buntu Pantan
+Sulawesi Selatan,Rumah Sakit,0341R004,RSU Hikmah Masamba                                            ,Jl. Ir. Soekarno
+Sulawesi Selatan,Rumah Sakit,0342R027,Rsia St.Khadijah I                                            ,Jl. Ra. Kartini No.15-17
+Sulawesi Selatan,Rumah Sakit,0345R001,RSU Inco Sorowako                                            ,Jl. Dipenogoro No 1 Sorowako
+Sulawesi Selatan,Rumah Sakit,0508R002,RSUD Pongtiku                                    ,Buntu Mapaken
+Sulawesi Tenggara,Rumah Sakit,0276R006,RS Siloam Hospitals Buton                                            ,Jl Sultan Hasanuddin No 58
+Sulawesi Tenggara,Rumah Sakit,0343R001,RSUD Kab. Buton                                            ,Link Laburunci Pasarwajo
+Sulawesi Tenggara,Rumah Sakit,1902R001,RSUD Kab. Muna                                            ,Jl. Ahmad Yani No.10 Raha
+Sulawesi Tenggara,Rumah Sakit,0348R004,RSU Setia Bunda                                    ,"Jl.Jenderal Sudirman,No.698Po"
+Sulawesi Tenggara,Rumah Sakit,1904R001,Blud Rs Benyamin Guluh Kolaka                                            ,Jl.Dr.Sutomo No.1 Kolaka
+Sulawesi Tenggara,Rumah Sakit,0350R011,RS Dewi Sartika                                            ,Jalan Kapten Piere Tendean No.
+Sulawesi Tenggara,Rumah Sakit,1901R002,RSUD Konawe Selatan                                            ,Jl. Poros Andoolo
+Sulawesi Tenggara,Rumah Sakit,1904R002,RSUD Kab. Kolaka Utara                                            ,Jl. H.M. Djafar Harun
+Sulawesi Tenggara,Rumah Sakit,0448R001,RSUD Kab. Wakatobi                                            ,"Jl.Wohou, Kelurahan Mandati II"
+Sulawesi Tenggara,Rumah Sakit,1910R001,RSUD Kab Bombana                                            ,Jl. Poros Poea Rumbia
+Sulawesi Tenggara,Rumah Sakit,1901R003,RSU Konawe Utara                                            ,Desa Lahimbua
+Sulawesi Tenggara,Rumah Sakit,0466R001,RSUD Kab. Buton Utara                                            ,Jl Gaumalanga No 1
+Sulawesi Tenggara,Rumah Sakit,0526R001,RSUD Kabupaten Muna Barat                                    ,Jl. Poros Lagadi-Tondasi
+Sulawesi Tenggara,Rumah Sakit,0528R001,RSUD Kab. Buton Selatan                                    ,Jalan Poros Batauga
+Gorontalo,Rumah Sakit,2108R001,RSUD Tani Dan Nelayan Boalemo                                            ,Jl. Prof. Dr. Aloei Saboe
+Gorontalo,Rumah Sakit,0353R002,RSUD Dr. Hasri Ainun Habibie                                            ,Jl. Kusno Tongkodu No 149
+Gorontalo,Rumah Sakit,0354R003,RSUD. Otanaha                                            ,Jl. Rambutan No. 413
+Gorontalo,Rumah Sakit,2110R001,RSUD Toto                                            ,Jl. Kesehatan No. 25
+Gorontalo,Rumah Sakit,2111R001,RSUD Pohuwato                                            ,Jl. Dr. Herizal Umar Desa Botu
+Gorontalo,Rumah Sakit,0463R000,RSUD dr. ZAINAL UMAR SIDIKI                                            ,Jl. Trans Sulawesi
+Maluku,Rumah Sakit,2507R001,RSUD dr. PP MAGRETTI                                            ,Jl. Mr. Latuharhari - Saumlaki
+Maluku,Rumah Sakit,2504R001,RSUD Karel Sadsuitubun                                            ,Langgur
+Maluku,Rumah Sakit,0357R005,RSUD Banda                                            ,Jl.Nusantara
+Maluku,Rumah Sakit,2508R001,RSUD Namlea                                            ,Namlea
+Maluku,Rumah Sakit,0359R014,RS Hative                                            ,Jl.Laksdya Leo Wattimena Ambon
+Maluku,Rumah Sakit,0442R001,RSUD Bula                                            ,Wailola Besar
+Maluku,Rumah Sakit,0443R001,RSUD Piru                                            ,Jln. Arteri Piru  
+Maluku,Rumah Sakit,2517R001,RSUD Cendrawasih Dobo                                            ,Jl. Cendrawasih Km. 06
+Maluku,Rumah Sakit,0469R001,RSUD Maren Hi Noho Renuat                                            ,Hi Noho Renuat
+Maluku,Rumah Sakit,0502R000,RSUD Namrole                                            ,Namrole
+Maluku,Rumah Sakit,0503R000,RSUD Tiakur                                            ,Tiakur
+Maluku Utara,Rumah Sakit,0312R003,RSUD Weda                                            ,Weda
+Maluku Utara,Rumah Sakit,0318R072,Rumah Sakit Prima                                            ,Jalan Raya Mangga Dua
+Maluku Utara,Rumah Sakit,2503R004,RSUD Jailolo                                            ,Jl Acango
+Maluku Utara,Rumah Sakit,0416R002,RS Bethesda Gmih Tobelo                                    ,Kemakmuran
+Maluku Utara,Rumah Sakit,2511R001,RSUD Labuha                                            ,"Jl. Raya Labuha-Babang, Sungai"
+Maluku Utara,Rumah Sakit,2512R001,RSU Sanana                                            ,Jln Dr Siberani Desa Falahu
+Maluku Utara,Rumah Sakit,0419R001,RSUD Maba                                            ,Jl.Trans Halmahera
+Maluku Utara,Rumah Sakit,0420R003,RSU Soasio                                            ,Sultan Mansyur
+Maluku Utara,Rumah Sakit,0489R001,RSU Morotai                                            ,Nakamura
+Papua,Rumah Sakit,0363R001,Rumkital Merauke                                            ,Jl. Trikora No.7 Merauke
+Papua,Rumah Sakit,2607R001,RSUD Wamena                                            ,Jl. Trikora No. 09 
+Papua,Rumah Sakit,2612R011,RSUD-C Yowari Sentani                                            ,Jl Doyo Baru Sentani Papua
+Papua,Rumah Sakit,2609R001,RSUD Serui                                            ,Jl. Pertanian - Wainakawini
+Papua,Rumah Sakit,2602R001,RSUD Biak                                            ,Jl.Sriwijaya Ridge I Biak
+Papua,Rumah Sakit,0372R001,RSUD Paniai                                            ,Jl. Raya Madi Km 7 Desa Madi D
+Papua,Rumah Sakit,0374R004,RS Pt Freeport Indonesia                                            ,"Jl. Numfor No. 1 Tembagapura, "
+Papua,Rumah Sakit,2601R001,RSUD-B Jayapura                                            ,Jl.Kesehatan Dok.Ii Jayapura
+Papua,Rumah Sakit,0384R001,RSUD Kwaingga Kab Kerom                                            ,Jl. Bhayangkara Kamp.Asyaman A
+Papua,Rumah Sakit,2614R001,Rumah Sakit Mulia                                            ,"Jl Papua, Pruleme"
+Papua,Rumah Sakit,0387R001,RSUD Oksibil                                    ,Jl. Poros Kabiding No. 2 Oksib
+Papua,Rumah Sakit,0388R001,RSUD Dekai                                    ,Jl. Jenderal Sudriman
+Papua,Rumah Sakit,0389R000,RSUD Mappi                                            ,Jl. Mappi
+Papua,Rumah Sakit,0390R000,RSUD Agats                                            ,Jl. Missi No 1 Agats Kab.Asmat
+Papua,Rumah Sakit,0391R000,RSUD Boven Digoel                                            ,Jl Trans Papua Tanah Merah
+Papua,Rumah Sakit,2608R001,RSUD Nabire                                            ,Jl.R.E.Marthadinata Nabire
+Papua,Rumah Sakit,0459R001,RS Bergerak Mamberamo Raya                                            ,"Jl. Demianus Kyeuw-Kyeuw,Sh,Kasonaweja"
+Papua Barat,Rumah Sakit,2605R001,RSUD Fak-Fak                                            ,Jl Jend Sudirman Fakfak
+Papua Barat,Rumah Sakit,2604R001,RSUD Kabupaten Sorong                                            ,Jl. Kesehatan
+Papua Barat,Rumah Sakit,2603R001,RSUD. Manokwari                                            ,"Jl. Bhayangkara No 1,Manokwari"
+Papua Barat,Rumah Sakit,0392R008,RSAL. Dr. R Eotojo                                            ,Jl A Yani
+Papua Barat,Rumah Sakit,0393R001,RSUD. Scholoo Keyen                                            ,Jl.Teminabuan
+Papua Barat,Rumah Sakit,0394R001,RSUD Kabupaten Raja Ampat                                            ,Jalan Jendralbasuki Rahmat  Wa
+Papua Barat,Rumah Sakit,0395R000,RSUD Kaimana                                            ,Jl. Batu Putih
+Papua Barat,Rumah Sakit,0396R000,RSU Bintuni                                            ,Jalan Sibena Raya Kilo Meter 7
+Papua Barat,Rumah Sakit,0397R000,RSUD Wasior                                            ,Jl.Raya Manggurai Rasiei
+Sulawesi Barat,Rumah Sakit,0338R008,Rumah Sakit Bhakti Kasih                                            ,Jl. Kartini No. 72
+Sulawesi Barat,Rumah Sakit,1817R001,Rumah Sakit Umum Daerah Majene                                            ,Jl. Poros Majene-Mamuju
+Sulawesi Barat,Rumah Sakit,0340R003,RSU Provinsi Sulawesi Barat                                            ,Jalan Martadinata
+Sulawesi Barat,Rumah Sakit,1826R001,RSUD Kondosapata                                            ,"Jl. Poros Polewali Mamasa, Des"
+Sulawesi Barat,Rumah Sakit,0410R002,RSUD Pasangkayu                                            ,Jl. Trans Sulawesi-Palu
+Sulawesi Barat,Rumah Sakit,0512R001,RSUD.Mamuju tengah                                            ,Jln Tammauni pue Ballung
+Kepulauan Riau,Rumah Sakit,0056R000,RSUD Raja Ahmad Tabib                                            ,Sei. Carang Km. 8
+Kepulauan Riau,Rumah Sakit,0066R003,RSUD Engku Haji Daud                                            ,Jl. Indun Suri Simpang Busung
+Kepulauan Riau,Rumah Sakit,0067R003,RS Bakti Timah                                            ,Jl. Canggai Puteri
+Kepulauan Riau,Rumah Sakit,0414R002,RSUD Natuna                                            ,Jl Ali Murtopo Ranai
+Kepulauan Riau,Rumah Sakit,0070R013,RS Camatha Sahidya                                            ,Jl. Jend Ahmad Yani No. 8 Muka
+Kepulauan Riau,Rumah Sakit,0417R001,RSUD Encik Mariyam                                            ,Jl. Mesjid Sultan Lingga
+Kepulauan Riau,Rumah Sakit,0414R001,RSUD Palmatak                                            ,"Desa Payalaman, Kec Palmatak"
+Kalimantan Utara,Rumah Sakit,0297R002,RS Bergerak Langap Kab.Malinau                                            ,Jl.Kesehatan LANGAP LONG LOREH
+Kalimantan Utara,Rumah Sakit,1605R001,RSUD Soemarno Sosroatmodjo                                            ,Cendrawasih Tj Selor
+Kalimantan Utara,Rumah Sakit,1612R001,Rumah Sakit Umum Nunukan                                            ,Jl. Sungai Fatimah
+Kalimantan Utara,Rumah Sakit,1607R001,RSUD Tarakan                                            ,Pulau Irian No. 01 Skip
